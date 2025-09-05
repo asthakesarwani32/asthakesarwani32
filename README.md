@@ -1,6 +1,9 @@
 ✨ Crafting digital experiences through clean code and innovative design
+
 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast  
+
 💻 JavaScript • Python • React • Node.js
+
 🌟 Turning ideas into impactful solutions
 
 <!---
